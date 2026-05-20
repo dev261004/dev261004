@@ -11,7 +11,7 @@
   <a href="https://github.com/dev261004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dev261004&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=dev261004&style=for-the-badge&color=6366f1&abbreviated=true" />
 </p>
 
 </div>
@@ -130,13 +130,15 @@ I help individuals, startups, and businesses build:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev261004&theme=tokyo-night&hide_border=true&area=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
