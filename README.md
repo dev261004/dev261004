@@ -109,13 +109,20 @@ I help individuals, startups, and businesses build:
 
 ## 🧩 What I Build
 
-```
-Full Stack Web Apps    ██████████  AI Agents          ██████████
-SaaS Platforms         ████████    LLM Applications    ████████
-MCP Servers            ████████    3D Web Experiences  ██████
-Automation Tools       ██████      Admin Dashboards    ██████
-REST APIs              ██████████  Database Systems    ██████████
-```
+<div align="center">
+
+![Full Stack Web Apps](https://img.shields.io/badge/Full_Stack_Web_Apps-000?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000?style=for-the-badge)
+![SaaS Platforms](https://img.shields.io/badge/SaaS_Platforms-000?style=for-the-badge)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-000?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-000?style=for-the-badge)
+![3D Web Experiences](https://img.shields.io/badge/3D_Web_Experiences-000?style=for-the-badge)
+![Automation Tools](https://img.shields.io/badge/Automation_Tools-000?style=for-the-badge)
+![Admin Dashboards](https://img.shields.io/badge/Admin_Dashboards-000?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge)
+![Database Systems](https://img.shields.io/badge/Database_Systems-000?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -123,14 +130,13 @@ REST APIs              ██████████  Database Systems    █�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev261004&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
