@@ -1,36 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B" alt="Typing SVG" />
 
 <p>
-  <strong>Freelance Full Stack Developer</strong>
-  &nbsp;·&nbsp;
-  <strong>AI Engineer</strong>
-  &nbsp;·&nbsp;
-  <strong>LLM Apps</strong>
-  &nbsp;·&nbsp;
-  <strong>AI Agents</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&pause=999999&color=9CA3AF&center=true&vCenter=true&width=650&height=24&lines=Freelance+Full+Stack+Developer+%C2%B7+AI+Engineer+%C2%B7+MCP+Server+Builder" alt="Subtitle" />
 </p>
 
-<br>
-
-<a href="https://linkedin.com/in/dev-agrawal-556188247">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dev261004">
-  <img src="https://img.shields.io/badge/dev261004-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Profile_Views-6366F1?style=for-the-badge&logo=eye&logoColor=white"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/dev-agrawal-556188247">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dev261004">
+    <img src="https://img.shields.io/badge/⭐%20dev261004-111827?style=for-the-badge&labelColor=111827&color=111827" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/👁️%20Profile%20Views-312E81?style=for-the-badge&labelColor=312E81&color=312E81" />
+  </a>
+</p>
 
 </div>
 
 <br>
 
----
 
 ## 🚀 About Me
 
