@@ -1,8 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B;Freelance+Full+Stack+Developer;AI+Engineer+%7C+LLM+Apps+%7C+AI+Agents;MCP+Server+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B" alt="Typing SVG" />
 
-<br><br>
+<p>
+  <strong>Freelance Full Stack Developer</strong>
+  &nbsp;·&nbsp;
+  <strong>AI Engineer</strong>
+  &nbsp;·&nbsp;
+  <strong>LLM Apps</strong>
+  &nbsp;·&nbsp;
+  <strong>AI Agents</strong>
+</p>
+
+<br>
 
 <a href="https://linkedin.com/in/dev-agrawal-556188247">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,8 +31,6 @@
 <br>
 
 ---
-
-
 
 ## 🚀 About Me
 
