@@ -1,18 +1,26 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B;Freelance+Full+Stack+Developer;AI+Engineer+%7C+LLM+Apps+%7C+AI+Agents;MCP+Server+Builder" alt="Typing SVG" />
+
 <br/>
+
 <p>
   <a href="https://linkedin.com/in/dev-agrawal-556188247">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/dev261004-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/⭐%20dev261004-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/Profile_Views-6366f1?style=for-the-badge&logo=eye&logoColor=white&labelColor=6366f1" />
+    <img src="https://img.shields.io/badge/👁️%20Profile%20Views-111827?style=for-the-badge&logoColor=white&labelColor=111827&color=6366F1" />
   </a>
 </p>
+
 </div>
+
+---
 
 ---
 
