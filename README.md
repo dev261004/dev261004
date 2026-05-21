@@ -130,15 +130,17 @@ I help individuals, startups, and businesses build:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Activity" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&custom_title=Top%20Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width="70%" src="https://streak-stats.demolab.com?user=dev261004&theme=github-dark-blue&hide_border=true&border_radius=12" />
 
 </div>
 
