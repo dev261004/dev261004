@@ -3,12 +3,14 @@
 <br/>
 <p>
   <a href="https://linkedin.com/in/dev-agrawal-556188247">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/dev261004-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dev261004&style=for-the-badge&color=6366f1&label=&abbreviated=true" />
+  <a href="https://github.com/dev261004">
+    <img src="https://img.shields.io/badge/Profile_Views-6366f1?style=for-the-badge&logo=eye&logoColor=white&labelColor=6366f1" />
+  </a>
 </p>
 </div>
 
