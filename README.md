@@ -104,23 +104,25 @@ I help individuals, startups, and businesses build:
 
 
 
-## 🧩 What I Build
+## 🧩 Focus Areas
 
 <div align="center">
+<img src="https://img.shields.io/badge/AI%20Agents-1E1B4B?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LLM%20Apps-4A044E?style=for-the-badge&logo=googlegemini&logoColor=F0ABFC" />
+<img src="https://img.shields.io/badge/MCP%20Servers-312E81?style=for-the-badge&logo=serverfault&logoColor=C4B5FD" />
 
-![Full Stack Web Apps](https://img.shields.io/badge/Full_Stack_Web_Apps-000?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000?style=for-the-badge)
-![SaaS Platforms](https://img.shields.io/badge/SaaS_Platforms-000?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-000?style=for-the-badge)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-000?style=for-the-badge)
-![3D Web Experiences](https://img.shields.io/badge/3D_Web_Experiences-000?style=for-the-badge)
-![Automation Tools](https://img.shields.io/badge/Automation_Tools-000?style=for-the-badge)
-![Admin Dashboards](https://img.shields.io/badge/Admin_Dashboards-000?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge)
-![Database Systems](https://img.shields.io/badge/Database_Systems-000?style=for-the-badge)
+<br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Products-1E293B?style=for-the-badge&logo=react&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SaaS%20MVPs-164E63?style=for-the-badge&logo=vercel&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Automation%20Systems-14532D?style=for-the-badge&logo=n8n&logoColor=86EFAC" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Startup%20Validation%20Tools-713F12?style=for-the-badge&logo=googleanalytics&logoColor=FDE68A" />
+<img src="https://img.shields.io/badge/3D%20Web%20Experiences-431407?style=for-the-badge&logo=three.js&logoColor=FDBA74" />
 
 </div>
-
 
 ## 📊 GitHub Stats
 
