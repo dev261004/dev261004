@@ -95,14 +95,12 @@ I help individuals, startups, and businesses build:
 
 ## 🔥 Featured Projects
 
-| | Project | Description | Stack |
-|---|---|---|---|
-| 🧠 | **[FounderMind](https://github.com/dev261004/FounderMind)** | AI-powered startup validation platform with multi-agent SWOT analysis, market research, and PDF report generation. | `Python` `Streamlit` `Django` `MongoDB` `LangChain` `Gemini` |
-| 🤖 | **[AssessAI](https://github.com/dev261004/AssessAI)** | Fine-tuned BERT model that evaluates student assignments through semantic comparison and auto-generates marks. | `Python` `PyTorch` `BERT` `Hugging Face` `Pandas` |
-| 💼 | **[GigWorld](https://github.com/dev261004/GigWorld)** | MERN-stack freelancing platform that aggregates job listings from external sites via Selenium scraping. | `MongoDB` `Express` `React` `Node.js` `Selenium` |
-| 🧊 | **[web3d-mcp-server](https://github.com/dev261004/web3d-mcp-server)** | MCP server that converts plain-English prompts into validated React Three Fiber 3D scene code for web and ads. | `TypeScript` `FastMCP` `React Three Fiber` `Zod` `Node.js` |
-
-
+| Project | Description | Stack |
+|---|---|---|
+| **[FounderMind](https://github.com/dev261004/FounderMind)** | AI startup validation platform that analyzes ideas, generates SWOT insights, researches market data, and exports PDF reports. | `Python` `Streamlit` `Django` `MongoDB` `LangChain` `Gemini` |
+| **[AssessAI](https://github.com/dev261004/AssessAI)** | AI assignment evaluation system using a fine-tuned BERT model to compare student answers with reference answers and generate marks. | `Python` `PyTorch` `BERT` `Hugging Face` `Pandas` |
+| **[GigWorld](https://github.com/dev261004/GigWorld)** | MERN freelancing platform that aggregates job listings from external websites using Selenium-based web scraping. | `MongoDB` `Express` `React` `Node.js` `Selenium` |
+| **[web3d-mcp-server](https://github.com/dev261004/web3d-mcp-server)** | MCP server that converts natural-language prompts into validated React Three Fiber 3D scene code for web experiences and ads. | `TypeScript` `FastMCP` `React Three Fiber` `Zod` `Node.js` |
 
 ## 🧩 Focus Areas
 
