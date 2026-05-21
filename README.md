@@ -127,11 +127,12 @@ I help individuals, startups, and businesses build:
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -139,7 +140,7 @@ I help individuals, startups, and businesses build:
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dev261004&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
