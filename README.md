@@ -124,15 +124,14 @@ I help individuals, startups, and businesses build:
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Activity" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&custom_title=Top%20Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -140,11 +139,9 @@ I help individuals, startups, and businesses build:
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=dev261004&theme=github-dark-blue&hide_border=true&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=dev261004&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
-
----
 
 ## 🐍 Contribution Graph
 
