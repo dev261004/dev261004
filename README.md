@@ -8,21 +8,14 @@
 
 <p>
   <a href="https://linkedin.com/in/dev-agrawal-556188247">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0284C7?style=for-the-badge&labelColor=0284C7&color=0284C7" />
+    <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/⭐%20dev261004-111827?style=for-the-badge&labelColor=111827&color=111827" />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/👁️%20Profile%20Views-312E81?style=for-the-badge&labelColor=312E81&color=312E81" />
+    <img src="https://img.shields.io/badge/dev261004-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 </div>
-
-<br>
 
 
 ## 🚀 About Me
