@@ -4,21 +4,24 @@
 
 <br/>
 
-<p>
-  <a href="https://linkedin.com/in/dev-agrawal-556188247">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/⭐%20dev261004-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dev261004">
-    <img src="https://img.shields.io/badge/👁️%20Profile%20Views-111827?style=for-the-badge&logoColor=white&labelColor=111827&color=6366F1" />
-  </a>
-</p>
+<br/>
 
+<div align="center">
+  <a href="https://linkedin.com/in/dev-agrawal-556188247">
+    <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dev261004">
+    <img src="https://img.shields.io/badge/⭐%20DEV261004-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dev261004">
+    <img src="https://img.shields.io/badge/👁️%20PROFILE%20VIEWS-6366F1?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
+
+<br/>
+<br/>
 
 ---
 
