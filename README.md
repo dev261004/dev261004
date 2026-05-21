@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Agrawal+%F0%9F%91%8B;Freelance+Full+Stack+Developer;AI+Engineer+%7C+LLM+Apps+%7C+AI+Agents;MCP+Server+Builder" alt="Typing SVG" />
 
 <br/>
-
 <br/>
 
 <div align="center">
@@ -22,6 +21,10 @@
 
 <br/>
 <br/>
+
+</div>
+
+---
 
 ---
 
