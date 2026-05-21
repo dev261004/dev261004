@@ -27,7 +27,6 @@
 - 📚 Continuously improving in system design, DSA, DevOps, and scalable application architecture
 - 🎯 **Goal:** Build high-quality software products for startups, businesses, and global clients
 
----
 
 ## 💼 Freelance Services
 
@@ -42,8 +41,6 @@ I help individuals, startups, and businesses build:
 | 🗄️ Database-backed applications | 🔐 Authentication & role-based systems |
 | 📄 PDF/report generation systems | 🕷️ Web scraping & data automation |
 | 🧠 LLM-powered applications | 📈 Startup validation & market analysis tools |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -94,7 +91,7 @@ I help individuals, startups, and businesses build:
 ![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -105,7 +102,7 @@ I help individuals, startups, and businesses build:
 | 💼 | **[GigWorld](https://github.com/dev261004/GigWorld)** | MERN-stack freelancing platform that aggregates job listings from external sites via Selenium scraping. | `MongoDB` `Express` `React` `Node.js` `Selenium` |
 | 🧊 | **[web3d-mcp-server](https://github.com/dev261004/web3d-mcp-server)** | MCP server that converts plain-English prompts into validated React Three Fiber 3D scene code for web and ads. | `TypeScript` `FastMCP` `React Three Fiber` `Zod` `Node.js` |
 
----
+
 
 ## 🧩 What I Build
 
@@ -127,22 +124,25 @@ I help individuals, startups, and businesses build:
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev261004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev261004&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev261004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev261004&theme=tokyonight" />
+
 
 </div>
 
-<br/>
+
+## 🏆 Achievements
+
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dev261004&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=dev261004&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
 
 </div>
+
 
 ## 🐍 Contribution Graph
 
@@ -156,7 +156,7 @@ I help individuals, startups, and businesses build:
 
 </div>
 
----
+
 
 <div align="center">
 
