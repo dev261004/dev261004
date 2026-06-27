@@ -7,6 +7,10 @@
 </p>
 
 <p>
+  <a href="https://devagrawal.in">
+  <img src="https://raw.githubusercontent.com/dev261004/dev261004/main/icon.svg" width="40" height="40" />
+</a>
+   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/dev-agrawal-556188247">
     <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
